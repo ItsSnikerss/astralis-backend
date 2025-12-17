@@ -1,6 +1,6 @@
-module astralis.backend
+module github.com/ItsSnikerss/astralis-backend
 
-go 1.25.3
+go 1.19
 
 require (
 	filippo.io/edwards25519 v1.1.0 // indirect
